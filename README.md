@@ -1,2 +1,2 @@
 # matrix
-C code for matrix multiplication.
+C code and MIPS code for matrix multiplication.
